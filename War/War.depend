@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1549425205 source:c:\users\aladdin\documents\war\card.cpp
+	"card.h"
+
+1549420332 c:\users\aladdin\documents\war\card.h
+	<string>
+
+1549417967 source:c:\users\aladdin\documents\war\hand.cpp
+	"Hand.h"
+	<ctime>
+	<cstdlib>
+	<random>
+
+1549425152 c:\users\aladdin\documents\war\hand.h
+	"Card.h"
+	<vector>
+
+1549425041 source:c:\users\aladdin\documents\war\war.cpp
+	"War.h"
+	"Card.h"
+
+1549419884 c:\users\aladdin\documents\war\war.h
+	"Hand.h"
+	<iostream>
+	<string>
+
