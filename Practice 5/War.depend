@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1550277365 source:c:\users\aladdin\documents\war\card.cpp
+	"card.h"
+	<iostream>
+
+1550277832 c:\users\aladdin\documents\war\card.h
+	<string>
+
+1550273232 source:c:\users\aladdin\documents\war\hand.cpp
+	"Hand.h"
+	<ctime>
+	<cstdlib>
+	<random>
+	<algorithm>
+
+1550272890 c:\users\aladdin\documents\war\hand.h
+	"Card.h"
+	<vector>
+
+1550277708 source:c:\users\aladdin\documents\war\war.cpp
+	"War.h"
+	"Card.h"
+
+1550277708 c:\users\aladdin\documents\war\war.h
+	"Hand.h"
+	<iostream>
+	<string>
+
+1552600358 source:c:\users\aladdin\documents\war part 2\card.cpp
+	"card.h"
+	<iostream>
+
+1552600365 c:\users\aladdin\documents\war part 2\card.h
+	<assert.h>
+	<string>
+
+1550276832 source:c:\users\aladdin\documents\war part 2\hand.cpp
+	"Hand.h"
+	<ctime>
+	<cstdlib>
+	<random>
+	<algorithm>
+
+1550276490 c:\users\aladdin\documents\war part 2\hand.h
+	"Card.h"
+	<vector>
+
+1552600484 source:c:\users\aladdin\documents\war part 2\war.cpp
+	"War.h"
+	"Card.h"
+
+1550281308 c:\users\aladdin\documents\war part 2\war.h
+	"Hand.h"
+	<iostream>
+	<string>
+
+1550276832 source:c:\users\aladdin\documents\practice 4\hand.cpp
+	"Hand.h"
+	<ctime>
+	<cstdlib>
+	<random>
+	<algorithm>
+
+1550276490 c:\users\aladdin\documents\practice 4\hand.h
+	"Card.h"
+	<vector>
+
+1552615763 c:\users\aladdin\documents\practice 4\card.h
+	<assert.h>
+	<string>
+
+1552615586 source:c:\users\aladdin\documents\practice 4\war.cpp
+	<iostream>
+	"Card.h"
+
+1550281308 c:\users\aladdin\documents\practice 4\war.h
+	"Hand.h"
+	<iostream>
+	<string>
+
+1552615763 source:c:\users\aladdin\documents\practice 4\card.cpp
+	"card.h"
+	<iostream>
+
